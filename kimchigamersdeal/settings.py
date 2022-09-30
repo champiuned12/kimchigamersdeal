@@ -23,7 +23,6 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: don't run with debug turned onw in production!
 DEBUG = True
-
 ALLOWED_HOSTS = ['34.69.123.37','localhost']
 
 
